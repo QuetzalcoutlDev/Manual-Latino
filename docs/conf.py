@@ -20,11 +20,11 @@ import sphinx_rtd_theme
 # -- Project information -----------------------------------------------------
 
 project = 'Manual Latino'
-copyright = '2015-2021, Lenguaje Latino.'
+copyright = '2015-2023, Lenguaje Latino.'
 author = 'Melvin Guerrero'
 
 # The full version, including alpha/beta/rc tags
-latino_version = '1.4.0'
+latino_version = '1.4.1'
 
 
 # -- General configuration ---------------------------------------------------
