@@ -19,7 +19,7 @@ Bienvenidos al manual de Latino_, un lenguaje de programación con sintaxis en E
   `Melvin Guerrero`_
 
 :Versión:
-  `Latino 1.4.0`_
+  `Latino 1.4.1`_
 
 Empezando
 ----------
@@ -132,8 +132,8 @@ Si desea colaborar, mire el articulo de `guía de colaboración`_
 
 .. _Latino: https://lenguajelatino.org
 .. _Melvin Guerrero: https://melvinguerrero.blogspot.com
-.. _Latino 1.4.0: https://github.com/lenguaje-latino/Latino/releases/tag/v1.4.0
-.. _Latino API: https://manuallatinoapi.blogspot.com
+.. _Latino 1.4.1: https://github.com/lenguaje-latino/Latino/releases/tag/v1.4.1
+.. _Latino API: https://api.lenguajelatino.org/
 .. _guía de colaboración: https://github.com/LatinoDocs/Manual-Latino/blob/master/.readme/CONTRIBUTING.md
 .. _Canal en Youtube: https://www.youtube.com/channel/UCLVTJpQn-TDbBSwR732kvnQ/featured
 .. _Editor en-linea de Latino: https://editorlatino.blogspot.com
